@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
 
-- 🌱 Atualmente sou estagiário de Quality Assurance - QA.
+- 🌱 Estagiário de Quality Assurance - QA.
 - 🌱 Estudo Desenvolvimento frontend e Testes Manuais/Automatizados.
 - 🌱 Aprendendo JavaScript.
 
