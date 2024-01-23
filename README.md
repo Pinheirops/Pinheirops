@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Pedro 👋
 
-- 🌱 Sou um Desenvolvedor frontend
-- 🌱 Estudando Javascript
+- 🌱 Atualmente sou estagiário de Quality Assurance - QA.
+- 🌱 Estudo Desenvolvimento frontend e Testes Manuais/Automatizados.
+- 🌱 Aprendendo JavaScript.
 
 <div >
 <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=pinheirops&show_icons=true&theme=merko' />
