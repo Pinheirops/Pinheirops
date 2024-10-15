@@ -1,15 +1,9 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 🌱 Estagiário de Quality Assurance - QA.
-- 🌱 Estudo Desenvolvimento frontend e Testes Manuais/Automatizados.
-- 🌱 Aprendendo JavaScript.
-
-<div >
-<img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=pinheirops&show_icons=true&theme=merko' />
-<!-- <img height=180em  src="https://github-readme-stats.vercel.app/api/top-langs?username=pinheirops&layout=compact&langs_count=8&card_width=320" /> -->
-<img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=pinheirops&layout=compact' />
-</div>
-
+- 🌱 Estudando para certificação CTFL e aprendendo mais sobre testes manuais e automações.
+- 🌱 Aprendendo JavaScript para desenvolvimento web.
+- 🌱 Aprendendo Java para desenvolvimento de software e mobile.
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
