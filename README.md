@@ -11,8 +11,6 @@
   <img align= "center" alt="BOOTSTRAP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
   <img align= "center" alt="ROBOT FRAMEWORK" height="40" width="50" src = "simple-icons--robotframework.svg" />
-  <img align= "center" alt="CYPRESS" height="40" width="50" src = "cypress.svg" />
-  <img align= "center" alt="PLAYWRIGHT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img align= "center" alt="POSTMAN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
           
 
