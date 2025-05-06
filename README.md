@@ -3,7 +3,8 @@
 - Currently an intern in Quality Assurance - QA.
 - I'm a frontend development student.
 
-<div style="border: 1px solid black">
+<div style="">
+  ## Stack
   <div style="display: inline_block"><br>
     <img align= "center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html"/>
     <img align= "center" alt="CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="css"/>
