@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 🌱 Estagiário de Quality Assurance - QA.
-- 🌱 Estudando para certificação CTFL e aprendendo mais sobre testes manuais e automações.
-- 🌱 Aprendendo JavaScript, MySQL e CI/CD.
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html"/>
