@@ -3,8 +3,8 @@
 
 ### ⭐ Sobre mim
 <p>💬 Atualmente trabalho como Analista de Testes. Tenho experiência com Robot Framework, Postman, Javascript e outras ferramentas voltadas para qualidade de software.
-Além disso tenho conhecimentos sólidos em desenvolvimento front-end</p>
-<p>🧭 No momento, estou desenvolvendo meu portfolio QA, onde reúno projetos que demonstram minhas habilidades em testes manuais, automatizados e testes de API! </p>
+Além disso tenho conhecimentos sólidos em desenvolvimento front-end.</p>
+<p>🧭 No momento, estou desenvolvendo meu portfolio QA, onde reúno projetos que demonstram minhas habilidades em testes manuais, automatizados e testes de API. </p>
 <p>🔭 Estudando para certificação CTFL.</p>
 
 ### ⭐ Minhas Skills
