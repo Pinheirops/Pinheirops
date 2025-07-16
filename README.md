@@ -1,20 +1,31 @@
-### Hey there, I'm Pedro!👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1>Olá, meu nome é Pedro Pinheiro! 👋</h1>
 
-- Currently an intern in Quality Assurance - QA.
-- I'm a frontend development student.
+<h2>⭐ Sobre mim</h2>
+<p>💬 Atuo como Analista de Testes.</p>
+<p>🧭 Atualmente desenvolvendo meu portfolio QA!
+<p>🔭 Estudando para certificação CTFL.</p>
 
-<div>
-  <h3>Stacks</h3>
-  <div style="">
-    <img align= "center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html"/>
-    <img align= "center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="css"/>
-    <img align= "center" alt="JAVASCRIPT" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="javascript"/>
-    <img align= "center" alt="BOOTSTRAP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap"/>
-    <img align= "center" alt="ROBOT FRAMEWORK" height="30" width="30" src = "simple-icons--robotframework.svg" title="robot framework"/>
-    <img align= "center" alt="POSTMAN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman"/>       
-  </div>
-</div>
+<h2>⭐ Minhas Skills</h2>
+
+<code><img height="32" src="https://github.com/user-attachments/assets/837bdc54-df39-420c-b4bb-0ca9a5830ba9" alt="HTML"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/2df2f3aa-414b-4b74-a4af-f38bdafc8079" alt="CSS"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/34548135-12bd-4b9a-a5d5-5bbe0b05c2f2" alt="Figma"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/a52ff934-65f8-45c0-a6a8-7fff2a96fddb" alt="javascript"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/d51ddc8e-de96-4ff1-8dc1-d773fbf674df" alt="Nodejs"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/516e9554-63ab-46ec-84a2-4f3fd030cb5e" alt="Postman"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/b4fea11f-c70b-4880-b5a3-ea055500d58a" alt="Bootstrap"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/29727751-67de-48ba-b4a8-2d12764112cf" alt="Ubuntu"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/64fa1b81-f1f2-4491-a64a-dcd9d222bad7" alt="SQLite"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/7606a104-78e1-4392-8ac9-46a7cd9b228c" alt="Github Action"/><code>
+<code><img height="32" src="https://github.com/user-attachments/assets/786bdd0e-699f-4094-b318-d955eedf4529" alt="Git"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/61b36de1-c607-424e-bf69-5e64e3b03873" alt="Apache Jmeter"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/63325c17-ec15-461f-97dd-59050ae8e2a0" alt="Robot Framework"/></code>
 
 
 
+---
 
+<h2>⭐ GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pinheirops&show_icons=true)
