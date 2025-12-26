@@ -23,10 +23,6 @@ Além disso tenho conhecimentos sólidos em desenvolvimento front-end.</p>
 <img height="32" src="https://github.com/user-attachments/assets/61b36de1-c607-424e-bf69-5e64e3b03873" title="Apache JMeter" alt="Apache Jmeter"/>
 <img height="32" src="https://github.com/user-attachments/assets/63325c17-ec15-461f-97dd-59050ae8e2a0" title="Robot Framework" alt="Robot Framework"/>
 
-### ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pinheirops&show_icons=true)
-
 #### ⚡ Estou disponível para colaborar em projetos!!
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-ppassos/" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-ppassos/" alt="LinkedIn"/></a>
