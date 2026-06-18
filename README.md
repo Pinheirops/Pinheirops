@@ -3,7 +3,7 @@
 
 ### Sobre mim
 <p>Atualmente trabalho como Analista de Testes Junior e atuo no planejamento e execução de testes em aplicações web e APIs. Tenho conhecimentos sólidos em testes funcionais, regressivos e exploratórios, testes de API e ferramentas de gerenciamento de testes.
-<p>! E além de ser um QA, desenvolvo websites como hobbie e forma de aprendizado.</p>
+<p>E além de ser um QA, desenvolvo websites como hobbie e forma de aprendizado.</p>
 
 ### Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
